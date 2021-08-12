@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	// Write a program in golang to print 10 positive even numbers starting from a user given number.
 	var number int = 0
 	var evnum int
 	fmt.Print("Enter the Number: ")
