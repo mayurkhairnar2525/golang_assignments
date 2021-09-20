@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37d09a59-414c-4c8d-ac34-984b1ef5e580" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/webServer/01/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webServer/02/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webServer/03/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webServer/04/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webServer/05/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webServer/02/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/webServer/02/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +68,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -79,5 +78,13 @@
       <screen x="63" y="24" width="1857" height="1056" />
     </state>
     <state x="485" y="174" key="SettingsEditor/63.24.1857.1056@63.24.1857.1056" timestamp="1631878755016" />
+    <state x="682" y="277" width="618" height="522" key="find.popup" timestamp="1632118520103">
+      <screen x="63" y="24" width="1857" height="1056" />
+    </state>
+    <state x="682" y="277" width="618" height="522" key="find.popup/63.24.1857.1056@63.24.1857.1056" timestamp="1632118520103" />
+    <state x="654" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1632120716112">
+      <screen x="63" y="24" width="1857" height="1056" />
+    </state>
+    <state x="654" y="236" width="672" height="678" key="search.everywhere.popup/63.24.1857.1056@63.24.1857.1056" timestamp="1632120716112" />
   </component>
 </project>
